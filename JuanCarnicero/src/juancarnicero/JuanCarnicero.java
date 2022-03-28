@@ -7,6 +7,7 @@ public class JuanCarnicero {
         System.out.println("Hola Juan corto leña");
         System.out.println("Adios Juan");
         System.out.println("Melocoton");
+        System.out.println("Segundo día");
     }
     
 }
