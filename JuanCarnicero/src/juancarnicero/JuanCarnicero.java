@@ -8,6 +8,7 @@ public class JuanCarnicero {
         System.out.println("Adios Juan");
         System.out.println("Melocoton");
         System.out.println("Segundo día");
+        System.out.println("Desde Linux");
     }
     
 }
